@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2024-07-07T10:24:42.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cuuyozHxBFgdLPxy7xVj" version="24.6.4" type="google">
+  <diagram name="ページ1" id="NKPZZOQx5-XQ6p6UbQd2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JF75MMqwgY8A7bRtOh7g-5" value="都道7号" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="21.96" y="120" width="630" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JF75MMqwgY8A7bRtOh7g-6" value="五日市街道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-40" width="661.19" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JF75MMqwgY8A7bRtOh7g-2" value="自宅" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JF75MMqwgY8A7bRtOh7g-4" value="東京メトロ丸の内線&lt;div&gt;南阿佐ヶ谷駅&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JF75MMqwgY8A7bRtOh7g-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="JF75MMqwgY8A7bRtOh7g-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="200" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JF75MMqwgY8A7bRtOh7g-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JF75MMqwgY8A7bRtOh7g-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="-20" as="sourcePoint" />
+            <mxPoint x="924" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JF75MMqwgY8A7bRtOh7g-9" value="東京メトロ丸の内線&lt;div&gt;新宿三丁目駅&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JF75MMqwgY8A7bRtOh7g-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JF75MMqwgY8A7bRtOh7g-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="-20" as="sourcePoint" />
+            <mxPoint x="1120" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JF75MMqwgY8A7bRtOh7g-11" value="京王新宿三丁目ビル" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
