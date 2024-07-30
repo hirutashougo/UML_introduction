@@ -1,26 +1,26 @@
-<mxfile host="Electron" modified="2024-07-08T04:25:47.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="EkawMYS1M1q0ZxOmih4Y" version="22.0.2" type="device">
+<mxfile host="Electron" modified="2024-07-30T10:32:55.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="EwcW6vXwhpVwKjRPyCnM" version="22.0.2" type="device">
   <diagram name="ページ1" id="NKPZZOQx5-XQ6p6UbQd2">
-    <mxGraphModel dx="3456" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0mSqBatTHCEcBpTO_uF6-36" value="P先生&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0mSqBatTHCEcBpTO_uF6-36" value="先生：P先生&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0mSqBatTHCEcBpTO_uF6-52" value="lesson5-2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0mSqBatTHCEcBpTO_uF6-53" value="Q先生&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0mSqBatTHCEcBpTO_uF6-53" value="先生：Q先生&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0mSqBatTHCEcBpTO_uF6-55" value="1年1組&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0mSqBatTHCEcBpTO_uF6-55" value="クラス(学級)：1年1組&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0mSqBatTHCEcBpTO_uF6-56" value="1年2組&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0mSqBatTHCEcBpTO_uF6-56" value="クラス(学級)：1年2組&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0mSqBatTHCEcBpTO_uF6-57" value="バレーボール部&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1634" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="0mSqBatTHCEcBpTO_uF6-57" value="クラブ：バレーボール部&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1634" y="450" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0mSqBatTHCEcBpTO_uF6-58" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0mSqBatTHCEcBpTO_uF6-36" target="0mSqBatTHCEcBpTO_uF6-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -49,13 +49,13 @@
         <mxCell id="0mSqBatTHCEcBpTO_uF6-80" value="顧問する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1350" y="560" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0mSqBatTHCEcBpTO_uF6-81" value="生徒B&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0mSqBatTHCEcBpTO_uF6-81" value="生徒：生徒B&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0mSqBatTHCEcBpTO_uF6-82" value="生徒A&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0mSqBatTHCEcBpTO_uF6-82" value="生徒：生徒A&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0mSqBatTHCEcBpTO_uF6-83" value="生徒C&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0mSqBatTHCEcBpTO_uF6-83" value="生徒：生徒C&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0mSqBatTHCEcBpTO_uF6-84" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="0mSqBatTHCEcBpTO_uF6-57" edge="1">
@@ -102,6 +102,102 @@
         </mxCell>
         <mxCell id="0mSqBatTHCEcBpTO_uF6-93" value="所属する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1520" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-1" value="先生：P先生&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-2" value="先生：Q先生&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-3" value="クラス(学級)：1年1組&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-4" value="クラス(学級)：1年2組&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-5" value="クラブ：バレーボール部&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1310" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HpFWGvISow69hJ46Nu8b-1" target="HpFWGvISow69hJ46Nu8b-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="1130" as="sourcePoint" />
+            <mxPoint x="1140" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="1159.4099999999999" as="sourcePoint" />
+            <mxPoint x="1130" y="1159.4099999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HpFWGvISow69hJ46Nu8b-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="980" as="sourcePoint" />
+            <mxPoint x="1380" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-9" value="担任する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="950" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-10" value="担任する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-11" value="顧問する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-12" value="生徒：生徒B&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-13" value="生徒：生徒A&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-14" value="生徒：生徒C&lt;br&gt;&lt;hr&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HpFWGvISow69hJ46Nu8b-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="1160" as="sourcePoint" />
+            <mxPoint x="1380" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HpFWGvISow69hJ46Nu8b-13" target="HpFWGvISow69hJ46Nu8b-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="1080" as="sourcePoint" />
+            <mxPoint x="1230" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-18" value="在籍する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="950" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-19" value="在籍する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1050" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-20" value="在籍する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="1210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-23" value="所属する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-24" value="所属する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-25" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HpFWGvISow69hJ46Nu8b-5" target="HpFWGvISow69hJ46Nu8b-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="1300" as="sourcePoint" />
+            <mxPoint x="1080" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HpFWGvISow69hJ46Nu8b-5" target="HpFWGvISow69hJ46Nu8b-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="1350" as="sourcePoint" />
+            <mxPoint x="1000" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpFWGvISow69hJ46Nu8b-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HpFWGvISow69hJ46Nu8b-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1330" y="1170" as="sourcePoint" />
+            <mxPoint x="1380" y="1340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

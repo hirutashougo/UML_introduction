@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-07-30T02:08:03.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="gj-Ic-O4XFZxFnfXTNfb" version="22.0.2" type="device">
+<mxfile host="Electron" modified="2024-07-30T11:01:30.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="i918B3VLqHcy5YYPLapQ" version="22.0.2" type="device">
   <diagram name="ページ1" id="NKPZZOQx5-XQ6p6UbQd2">
-    <mxGraphModel dx="1571" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="JF75MMqwgY8A7bRtOh7g-4" value="東京メトロ丸の内線&lt;div&gt;南阿佐ヶ谷駅&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JF75MMqwgY8A7bRtOh7g-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" target="JF75MMqwgY8A7bRtOh7g-4" edge="1" source="JF75MMqwgY8A7bRtOh7g-2">
+        <mxCell id="JF75MMqwgY8A7bRtOh7g-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="JF75MMqwgY8A7bRtOh7g-2" target="JF75MMqwgY8A7bRtOh7g-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="240" as="sourcePoint" />
             <mxPoint x="200" y="-70" as="targetPoint" />
@@ -34,29 +34,47 @@
         <mxCell id="JF75MMqwgY8A7bRtOh7g-9" value="東京メトロ丸の内線&lt;div&gt;新宿三丁目駅&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JF75MMqwgY8A7bRtOh7g-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JF75MMqwgY8A7bRtOh7g-9" edge="1" target="JF75MMqwgY8A7bRtOh7g-11">
+        <mxCell id="JF75MMqwgY8A7bRtOh7g-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JF75MMqwgY8A7bRtOh7g-9" target="JF75MMqwgY8A7bRtOh7g-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="-20" as="sourcePoint" />
             <mxPoint x="1120" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JF75MMqwgY8A7bRtOh7g-11" value="京王新宿三丁目ビル&lt;br&gt;4階" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="-70" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VpM3XtP2M4gK9yom44-Z-1" value="東京メトロ丸の内線、池袋行き" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VpM3XtP2M4gK9yom44-Z-1" value="東京メトロ丸の内線、池袋行き" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="471.19" y="-100" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VpM3XtP2M4gK9yom44-Z-2" value="C1出口より地上に出る" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="-70" width="150" height="30" as="geometry" />
+        <mxCell id="VpM3XtP2M4gK9yom44-Z-2" value="地下通路を経由し、C1出口より地上に出る" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="910" y="-35" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VpM3XtP2M4gK9yom44-Z-3" value="杉並区立&lt;br&gt;成田図書館" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VpM3XtP2M4gK9yom44-Z-3" value="杉並区立&lt;br&gt;成田図書館" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VpM3XtP2M4gK9yom44-Z-4" value="杉並郵便局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VpM3XtP2M4gK9yom44-Z-4" value="杉並郵便局" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295.59" y="-20" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VpM3XtP2M4gK9yom44-Z-5" value="ブラウド&lt;br&gt;南阿佐ヶ谷&lt;br&gt;(マンション)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VpM3XtP2M4gK9yom44-Z-5" value="ブラウド&lt;br&gt;南阿佐ヶ谷&lt;br&gt;(マンション)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="-20" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pluA64RuQfblmNS7_rQg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="-180" width="70" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="pluA64RuQfblmNS7_rQg-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.437;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pluA64RuQfblmNS7_rQg-1" target="pluA64RuQfblmNS7_rQg-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="130" as="sourcePoint" />
+            <mxPoint x="1240" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pluA64RuQfblmNS7_rQg-3" value="旧甲州街道" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="-70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pluA64RuQfblmNS7_rQg-4" value="新宿バルト9&lt;br&gt;(映画館)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="-170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pluA64RuQfblmNS7_rQg-6" value="C1出口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="-65" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
